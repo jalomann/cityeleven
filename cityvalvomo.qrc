@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/a_flag.png</file>
+        <file>images/colors.png</file>
+        <file>images/motor.png</file>
+        <file>images/valve.png</file>
+    </qresource>
+</RCC>
